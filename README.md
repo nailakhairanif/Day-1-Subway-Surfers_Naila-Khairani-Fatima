@@ -17,6 +17,7 @@ Ia membahas tentang tata cara prompt engineering agar AI dapat menghasilkan outp
 Lalu ia juga menjelaskan tentang apa itu Git dan workflownya, GitHub, perbedaan antara keduanya, dan juga command-command esensial dari Git seperti git init, git commit, git push, dan masih banyak lagi (ada cheatsheetnya).
 
 Rangkuman materi :
+
 Prompt adalah instruksi yang diberikan kepada model untuk mendapatkan hasil tertentu.
 Bentuk prompt bisa beragam, mulai dari oertanyaan sederhana, hingga instruksi yang rumit, atau potongan kode.
 
