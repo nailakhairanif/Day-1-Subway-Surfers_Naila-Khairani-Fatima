@@ -52,12 +52,19 @@ github = tempat menyimpan hasil git secara cloud
 
 Perintah Dasar Git
 git init  = mulai repo baru
+
 git clone "url" = salin repo dari GitHub
+
 git add . = pindahkan file ke staging area
+
 git commit -m 'message' = simpan ke repository
+
 git remote add <name> <url> = hubungkan ke remote
+
 git push origin main = kirim ke GitHub
+
 git pull origin main = ambil dan gabungkan perubahan
+
 
 Pengetahuan baru yang dipelajari selama workshop:
 1. Tentang apa itu Git, dan mengetahui bahwa Git dan GitHub itu berbeda.
