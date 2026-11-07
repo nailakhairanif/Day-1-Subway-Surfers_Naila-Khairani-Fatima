@@ -20,6 +20,7 @@ Rangkuman materi :
 
 Prompt adalah instruksi yang diberikan kepada model untuk mendapatkan hasil tertentu.
 Bentuk prompt bisa beragam, mulai dari oertanyaan sederhana, hingga instruksi yang rumit, atau potongan kode.
+Sebuah prompt yang bagus memiliki Role, Task, Context, dan Format.
 
 Role = Jelaskan apa peran AI tersebut
 
