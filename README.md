@@ -21,8 +21,11 @@ Prompt adalah instruksi yang diberikan kepada model untuk mendapatkan hasil tert
 Bentuk prompt bisa beragam, mulai dari oertanyaan sederhana, hingga instruksi yang rumit, atau potongan kode.
 
 Role = Jelaskan apa peran AI tersebut
+
 Task = jelaskan apa yang harus dilakukan/dibuat
+
 Context = jelaskan yang dibutuhkan dan juga batasannya (requirements dan constraints)
+
 Format = output yang dibutuhkan (misal code), cara kerjanya bagaimana, dan cara mengujinya.
 
 Keuntungan  Prompt Engineering
